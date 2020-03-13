@@ -18,5 +18,5 @@ Before running the notebook, make sure the csv dataset is in the same directory 
 
 UPDATE 
 
+Added additional analysis comparing imbd rating vs income, metascore vs income, and content rating vs income. 
 
-“TODO - add a detailed readme / report to the repo. Be sure to include a description of the project, contributions of each team member. And then incorporate additional analysis looking at gross rate and other features”
