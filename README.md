@@ -1,3 +1,5 @@
+Our final project for CS105 focuses on analyzing the top 1000 movies and comparing their characterstics such as rating, metascore, and genre.
+
 To begin, we scraped data on the top 1000 movies from https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating.
 The data includes information such as IMDB rating, title, runtime, genre, number of votes, metascore, gross income, and intended audience rating. 
 
@@ -15,8 +17,7 @@ Contributions: For Phase 1: Moses, Justin, and Thomas found imdb datasets and co
 Before running the notebook, make sure the csv dataset is in the same directory as the notebook. There are no extra dependencies used in our project.
 
 
+UPDATE
 
-UPDATE 
-
-Added additional analysis comparing imbd rating vs income, metascore vs income, and content rating vs income. 
+We added on an analysis comparing the production cost to metascore, content rating to metascore, and content rating to move runtime. We wanted to see if the more money spent on production would lead to a higher score or not, which led to our first addtional analysis. Adding in a few more comparisons between movie characteristics gave us a better understand of any sort of correlation.
 
